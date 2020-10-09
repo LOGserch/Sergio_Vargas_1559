@@ -1,0 +1,44 @@
+computadora de uso general:
+la utilizamos para un uso exendido y global en cuanto
+a que tipo de operaciones computacionales es capaz de ejecutar una 
+computadora,que en general es todo:
+ejemplo,un telefono inteligete
+
+computadora de uso especifico:
+solo puede hacer una operacion o ejecutar instrucciones en orden limitado
+ejemplo, una calculadora cientifica(dependiendo el modelo)
+
+RAM:
+random acces memory, o memoria de acceso aleatorio
+es la memoria principal
+
+software:
+lo que ejecuta la computadora,lo intangible y sin embargo necesario
+para poder realizar tareas referentes a lo cotidiano en un caso basico
+ que requieran de la abstraccion directa de la informacion
+ frente al monitor o cualquier dispositivo de vizualizacion
+
+hardware:
+lo opuesto a lo intangible,lo fisico y lo que se requiere para
+que la computadora funcione
+
+programacion:
+escritura de datos en forma abstracta 
+para la ejecucion de tareas que puedan ser computables
+construccion de instrucciones , de estructuras binarias que
+una computadora pueda leer
+
+unidad de almacenamiento:
+dispositivo capaz de almacenar datos para un uso futuro
+en el se guardan archivos y lo mas importante,el sistema operativo
+
+procesador:
+el que procesa instrucciones,el que las lee,escribe,etc
+es el cabezal de la maquina de turing
+
+codigo binario:
+el lenguaje maquina;lo que usa la computadora 
+para poder hacer operaciones logicas,0 y 1, 0 o 5v
+solo existen 2 estados
+
+
