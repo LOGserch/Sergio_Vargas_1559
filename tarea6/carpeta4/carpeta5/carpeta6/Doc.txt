@@ -1,0 +1,7 @@
+hobbies:
+leer
+estudiar
+tocar musica
+escribir
+meditar
+jugar videojuegos
